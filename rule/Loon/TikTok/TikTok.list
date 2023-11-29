@@ -1,8 +1,12 @@
 # NAME: TikTok
 # AUTHOR: kevinyuandlp
 
+DOMAIN,api.snapkit.com
+DOMAIN,hotapi-va.isnssdk.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,byteoversea.net
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,ipstatp.com
@@ -17,6 +21,3 @@ DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
-DOMAIN-SUFFIX,amemv.com
-DOMAIN,api.snapkit.com
-DOMAIN,hotapi-va.isnssdk.com
